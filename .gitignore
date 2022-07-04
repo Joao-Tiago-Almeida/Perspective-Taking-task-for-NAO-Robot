@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignored files
+instructions backup.json
+JoaoAlmeida_MScThesis_GivenVouchers.xlsx
+NAO.pyc
+old/
+Participants results
+participants_info.json
+Plots
+PT_task.pyc
+Vouchers
+vouchers.py
