@@ -1,10 +1,11 @@
 # Ignored files
-src/instructions backup.jsonsrc/JoaoAlmeida_MScThesis_GivenVouchers.xlsx
-src/NAO.pyc
-src/old/
-src/Participants results
-src/participants_info.json
-src/Plots
-src/PT_task.pyc
-src/Vouchers
-src/vouchers.py
+src/program for the robot/instructions backup.json
+src/analyse of the results/JoaoAlmeida_MScThesis_GivenVouchers.xlsx
+src/program for the robot/NAO.pyc
+src/program for the robot/old/
+src/program for the robot/Participants results
+src/program for the robot/participants_info.json
+src/program for the robot/Plots
+src/program for the robot/PT_task.pyc
+src/analyse of the results/Vouchers
+src/analyse of the results/vouchers.py
