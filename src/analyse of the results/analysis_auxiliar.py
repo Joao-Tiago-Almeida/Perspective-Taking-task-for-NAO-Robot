@@ -9,14 +9,14 @@ import matplotlib.pyplot as plt
 def get_df_from_files() -> pd.DataFrame:
 
     # read the data from the PB task
-    df_pb = pd.read_csv("Questionnaires/Prosocial Behaviour (Responses) - Form responses.csv")
-    df_pt = pd.read_csv("Questionnaires/Final Questionnaire (Responses) - Form responses.csv", index_col='Please fill in your participant ID')
+    df_pb = pd.read_csv("Questionnaires/Prosocial Behaviour (Responses).csv")
+    df_pt = pd.read_csv("Questionnaires/Final Questionnaire (Responses).csv", index_col='Please fill in your participant ID')
     df_pt.drop(index=0, inplace = True)
 
     df_all = pd.DataFrame() # creates a new dataframe that's empty
 
     # iterate over the results
-    directory = "./Participants results/"
+    directory = "../program for the robot/Participants results/"
     for filename in os.listdir(directory):
         folder = os.path.join(directory, filename)
 
