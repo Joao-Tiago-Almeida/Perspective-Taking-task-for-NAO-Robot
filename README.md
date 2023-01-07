@@ -1,2 +1,4 @@
 # Perspective-Taking-task-for-NAO-Robot
 Perspective taking for NAO robot, coded to understand the link between robots perspective taking and Humans formulating a mental model and exhibiting prosocial behaviour.
+
+This interaction was the main focus of my thesis that it is available in this repo [here](https://github.com/Joao-Tiago-Almeida/Perspective-Taking-task-for-NAO-Robot/blob/main/docs/JoaoAlmeida_MScThesis.pdf) or in the official page [here](https://www.diva-portal.org/smash/record.jsf?dswid=-5128&pid=diva2%3A1711456&c=1&searchType=SIMPLE&language=en&query=Understanding+the+Link+Between+Robots+Perspective+Taking%2C+and+Humans+Formulating+a+Mental+Model+and+Exhibiting+Prosocial+Behaviour&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all).
